@@ -1,5 +1,5 @@
 <h2>Project title :</h2>
-<p>O-X game/p>
+<p>O-X game</p>
 <h3>Technologies Used: </h3>
 <ul>
 <li>HTML5</li>
